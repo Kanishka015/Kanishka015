@@ -7,10 +7,12 @@ Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlo
 - **Exploring**: **Data Visualization**, **Computer Vision**, **Reinforcement Learning**, and **Data Engineering**.
 - **Collaborating**: Feel free to reach out if you're working on something cool! 🤝
 
+
 ## 🔥 What I’m Working On
 - **Building**: Personal AI and ML projects to enhance my portfolio.
 - **Contributing**: Actively exploring open-source contributions by collaborating with the community on issues, documentation improvements, and code contributions to libraries
 - **Experimenting**: Running NLP models, experimenting with **transformers**, **ML Models** and their **APIs** for various tasks and projects.
+
 
 ## 🚀 Technologies & Skills
 - **Languages**: Python, C++, JavaScript, TypeScript, Java
@@ -22,13 +24,8 @@ Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlo
 - **Version Control**: Git, GitHub
 - **Tools**: Jupyter Notebook, VSCode, Docker
 - **Databases**: MySQL, MongoDB
-- **Web**: HTML, CSS, JavaScript, TailwindCSS, Nodejs
+- **Web**: HTML, CSS, JavaScript, TailwindCSS, Nodejs, Typescript
 
-## 🏆 Achievements
-- Completed multiple **Data Science** and **ML** certifications, including **TensorFlow** and **Coursera**.
-- Built a **Recommendation System** for a movie dataset using collaborative filtering.
-- Worked on an **AI-powered Chatbot** using NLP techniques.
-- Contributed to open-source **Machine Learning** projects.
 
 ## 🌐 My Projects
 Here are some of my recent projects:
