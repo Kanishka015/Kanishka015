@@ -35,11 +35,27 @@ Here are some of my recent projects:
 - **[JARVIS AI Chatbot](#)**: Implemented using NLP models to answer customer queries and perform various tasks for the user.
 - **[Image Classifier](#)**: Used CNNs to classify images with a high degree of accuracy.
 
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-link)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:your-email)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](your-link)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](your-link)
+
+---
+
+### ❤️ Built With
+[![Built With](https://img.shields.io/badge/Built%20with-Love-orange)](#)
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-green)](#)
+[![Thanks](https://img.shields.io/badge/-Thanks-purple)](#)
+
+
 ## 📫 Let's Connect
 - 💌 Email me at: kanishkanagar02@gmail.com
 - 🌐 Visit my Portfolio: kanishkangr.me
 - 👨‍💻 LinkedIn: [https://www.linkedin.com/in/kanishka-nagar-7102b6257/](#)
 - 🐦 Twitter: [kanishka02](#)
 
-Thanks for visiting my GitHub profile! 
+
 
