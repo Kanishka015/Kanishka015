@@ -1,14 +1,14 @@
 # ✨ HEY THERE!✨
 
 ## 👨‍💻 About Me
-Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlopment** ,**Data Science**, **Machine Learning**, and **AI**. I love exploring the intersection of technology and innovation. Currently, I'm learning, building, and experimenting with projects related to Machine Learning, Data Science, and Natural Language Processing (NLP). 🚀
+Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlopment** ,**Data Science**, **Machine Learning**, and **AI**. I love exploring the intersection of technology and innovation. Currently, I'm learning, building, and experimenting with projects related to Data Science, and Natural Language Processing (NLP). 🚀
 
 - **Learning**: I’m currently diving into **Machine Learning**, **Deep Learning**, **Transformers**, and **AI Ethics**.
 - **Exploring**: **Data Visualization**, **Computer Vision**, **Reinforcement Learning**, and **Data Engineering**.
 - **Collaborating**: Feel free to reach out if you're working on something cool! 🤝
 
 
-## 🔥 What I’m Working On
+## 🚀 What I’m Working On
 - **Building**: Personal AI and ML projects to enhance my portfolio.
 - **Contributing**: Actively exploring open-source contributions by collaborating with the community on issues, documentation improvements, and code contributions to libraries
 - **Experimenting**: Running NLP models, experimenting with **transformers**, **ML Models** and their **APIs** for various tasks and projects.
@@ -16,8 +16,8 @@ Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlo
 
 ## 🚀 Technologies & Skills
 - **Languages**: Python, C++, JavaScript, TypeScript, Java
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras
-- **Deep Learning**: PyTorch, TensorFlow, CNNs, RNNs, GANs
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Deep Learning**: PyTorch, TensorFlow
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **AI**: NLP (Natural Language Processing), Computer Vision, Reinforcement Learning
 - **Cloud Computing**: AWS, Google Cloud, Azure
