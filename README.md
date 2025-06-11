@@ -1,7 +1,7 @@
-# ✨ HEY THERE!✨
+# HEY THERE!✨
 
 ## 👨‍💻 About Me
-Hi, I'm Kanishka! 👋 I'm a tech enthusiast with a deep interest in **Web devlopment** ,**Data Science**, **Machine Learning**, and **AI**. I love exploring the intersection of technology and innovation. Currently, I'm learning, building, and experimenting with projects related to Data Science, and Natural Language Processing (NLP). 🚀
+Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web devlopment** ,**Data Science**, **Machine Learning**, and **AI**. I love exploring the intersection of technology and innovation. Currently, I'm learning, building, and experimenting with projects related to Data Science, and Natural Language Processing (NLP). 🚀
 
 - **Learning**: I’m currently diving into **Machine Learning**, **Deep Learning**, **Transformers**, and **AI Ethics**.
 - **Exploring**: **Data Visualization**, **Computer Vision**, **Reinforcement Learning**, and **Data Engineering**.
@@ -38,10 +38,9 @@ Here are some of my recent projects:
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](your-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:your-email)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](your-link)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]()
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:Kanishkanagar02@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Kanishka015)
 
 ---
 
