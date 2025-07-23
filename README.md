@@ -10,7 +10,6 @@ Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web devlopment
 
 ## 🚀 What I’m Working On
 - **Building**: Personal AI and ML projects to enhance my portfolio.
-- **Contributing**: Actively exploring open-source contributions by collaborating with the community on issues, documentation improvements, and code contributions to libraries
 - **Experimenting**: Running NLP models, experimenting with **transformers**, **ML Models** and their **APIs** for various tasks and projects.
 
 
