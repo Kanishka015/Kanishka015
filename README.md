@@ -20,20 +20,10 @@ Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web devlopment
 - **Deep Learning**: PyTorch, TensorFlow
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **AI**: NLP (Natural Language Processing), Computer Vision, Reinforcement Learning
-- **Cloud Computing**: AWS, Google Cloud, Azure
 - **Version Control**: Git, GitHub
-- **Tools**: Jupyter Notebook, VSCode, Docker
-- **Databases**: MySQL, MongoDB
-- **Web**: HTML, CSS, JavaScript, TailwindCSS, Nodejs, Typescript
-
-
-## 🌐 My Projects
-Here are some of my recent projects:
-
-- **[Café  website with an integrated AI-powered chatbot](#)**: Developed and trained a Dialogflow model, integrated it with an SQL backend, and deployed it on a café website using FastAPI for seamless customer interaction.
-- **[Movie Recommendation System](#)**: Built using collaborative filtering and matrix factorization.
-- **[JARVIS AI Chatbot](#)**: Implemented using NLP models to answer customer queries and perform various tasks for the user.
-- **[Image Classifier](#)**: Used CNNs to classify images with a high degree of accuracy.
+- **Tools**:  VSCode
+- **Databases**: MySQL
+- **Web**: HTML, CSS, JavaScript, TailwindCSS, Typescript
 
 
 ---
