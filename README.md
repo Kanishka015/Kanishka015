@@ -1,5 +1,3 @@
-# HEY THERE!✨
-
 ## 👨‍💻 About Me
 Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web devlopment** ,**Data Science**, **Machine Learning**, and **AI**. I love exploring the intersection of technology and innovation. Currently, I'm learning, building, and experimenting with projects related to Data Science, and Natural Language Processing (NLP). 🚀
 
