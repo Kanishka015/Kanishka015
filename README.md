@@ -25,7 +25,7 @@ Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web devlopment
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]()
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kanishka-nagar-7102b6257/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:Kanishkanagar02@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Kanishka015)
 
