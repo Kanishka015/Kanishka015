@@ -31,17 +31,17 @@ Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web developmen
 
 ---
 
-### ❤️ Built With
+### Built With ❤️ 
 [![Built With](https://img.shields.io/badge/Built%20with-Love-orange)](#)
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20Me-Anything-green)](#)
 [![Thanks](https://img.shields.io/badge/-Thanks-purple)](#)
 
 
 ## 📫 Let's Connect
-- 💌 Email me at: kanishkanagar02@gmail.com
-- 🌐 Visit my Portfolio: kanishkangr.me
-- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/kanishka-nagar-7102b6257/](#)
-- 🐦 Twitter: [kanishka02](#)
+- 💌 Email me at: [kanishkanagar02@gmail.com](kanishkanagar02@gmail.com)
+- 🌐 Visit my Portfolio: [kanishkangr.me](https://kanishkanagr.vercel.app/)
+- 👨‍💻 LinkedIn: [https://www.linkedin.com/in/kanishka-nagar-7102b6257/](https://www.linkedin.com/in/kanishka-nagar-7102b6257/)
+- 🐦 Twitter: [kan116520](https://x.com/kan116520)
 
 
 
