@@ -38,8 +38,6 @@ Hi, I'm Kanishka! I'm a tech enthusiast with a deep interest in **Web developmen
 
 
 ## 📫 Let's Connect
-- 💌 Email me at: [kanishkanagar02@gmail.com](kanishkanagar02@gmail.com)
-- 🌐 Visit my Portfolio: [kanishkangr.me](https://kanishkanagr.vercel.app/)
 - 👨‍💻 LinkedIn: [https://www.linkedin.com/in/kanishka-nagar-7102b6257/](https://www.linkedin.com/in/kanishka-nagar-7102b6257/)
 - 🐦 Twitter: [kan116520](https://x.com/kan116520)
 
